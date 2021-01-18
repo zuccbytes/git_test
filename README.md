@@ -1,0 +1,1 @@
+This is Zucchero's first git project!
